@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Windowing.h.obj",
+            "outputs": [
+                "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\x64\\Debug\\Windowing.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Windowing.h",
+                    "source-path": "c:\\users\\xmcwht\\source\\repos\\windowsrg\\windowsrg\\windowing.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

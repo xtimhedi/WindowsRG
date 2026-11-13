@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Windowing.obj",
+            "outputs": [
+                "x64\\Debug\\Windowing.h_A97B5DE62DE21015.ifc.dt.module.json",
+                "x64\\Debug\\Windowing.h_A97B5DE62DE21015.ifc.dt.d.json",
+                "x64\\Debug\\Windowing.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\Windowing.h",
+                    "source-path": "c:\\users\\xmcwht\\source\\repos\\windowsrg\\windowsrg\\windowing.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

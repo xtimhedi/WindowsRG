@@ -18,15 +18,21 @@
     <ClCompile Include="WindowsRG.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Windowing.h">
+    <ClCompile Include="drawing\box.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="drawing\box.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Desktop\Window.h">
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includeGroups\list.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

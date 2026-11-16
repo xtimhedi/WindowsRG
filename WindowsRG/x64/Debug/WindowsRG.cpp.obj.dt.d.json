@@ -298,7 +298,18 @@
             "c:\\users\\xmcwht\\downloads\\sdl3-devel-3.4.20-vc\\sdl3-3.4.20\\include\\sdl3\\sdl_close_code.h",
             "c:\\users\\xmcwht\\downloads\\sdl3-devel-3.4.20-vc\\sdl3-3.4.20\\include\\sdl3\\sdl_oldnames.h",
             "c:\\users\\xmcwht\\source\\repos\\windowsrg\\windowsrg\\stdafx.h",
-            "c:\\users\\xmcwht\\source\\repos\\windowsrg\\windowsrg\\windowing.h"
+            "c:\\users\\xmcwht\\source\\repos\\windowsrg\\windowsrg\\pch.h",
+            "c:\\users\\xmcwht\\source\\repos\\windowsrg\\windowsrg\\drawing\\box.h",
+            "c:\\users\\xmcwht\\source\\repos\\windowsrg\\windowsrg\\includegroups\\list.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\list",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\random",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_int128.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_bit_utils.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\algorithm",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_heap_algorithms.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_minmax.hpp",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vector",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\xbit_ops.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

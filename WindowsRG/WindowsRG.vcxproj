@@ -148,6 +148,7 @@
     <ClCompile Include="WindowsRG.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="direction.h" />
     <ClInclude Include="drawing\box.h" />
     <ClInclude Include="includeGroups\list.h" />
     <ClInclude Include="pch.h" />

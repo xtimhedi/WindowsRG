@@ -7,12 +7,11 @@
       "RelativeMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|solutionrelative:WindowsRG\\WindowsRG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|solutionrelative:WindowsRG\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|solutionrelative:WindowsRG\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|solutionrelative:WindowsRG\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\drawing\\box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,6 +20,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\drawing\\box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|solutionrelative:WindowsRG\\drawing\\box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\direction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|solutionrelative:WindowsRG\\direction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|solutionrelative:WindowsRG\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCCD9045-690C-456F-8910-6209708B2AC5}|WindowsRG\\WindowsRG.vcxproj|C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\includeGroups\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 245,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +49,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\vector",
+              "ViewState": "AgIAAH8HAAAAAAAAAAAAAJEHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-17T21:09:04.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "direction.h",
+              "DocumentMoniker": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\direction.h",
+              "RelativeDocumentMoniker": "WindowsRG\\direction.h",
+              "ToolTip": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\direction.h",
+              "RelativeToolTip": "WindowsRG\\direction.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-17T20:45:14.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "list.h",
               "DocumentMoniker": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\includeGroups\\list.h",
               "RelativeDocumentMoniker": "WindowsRG\\includeGroups\\list.h",
@@ -50,12 +83,11 @@
               "RelativeToolTip": "WindowsRG\\includeGroups\\list.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-16T21:12:07.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-16T21:12:07.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "pch.h",
               "DocumentMoniker": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\pch.h",
               "RelativeDocumentMoniker": "WindowsRG\\pch.h",
@@ -68,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\stdafx.h",
               "RelativeDocumentMoniker": "WindowsRG\\stdafx.h",
@@ -76,8 +108,7 @@
               "RelativeToolTip": "WindowsRG\\stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-16T21:02:26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-16T21:02:26Z"
             },
             {
               "$type": "Document",
@@ -87,7 +118,7 @@
               "RelativeDocumentMoniker": "WindowsRG\\drawing\\box.cpp",
               "ToolTip": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\drawing\\box.cpp",
               "RelativeToolTip": "WindowsRG\\drawing\\box.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-16T21:00:10.069Z",
               "EditorCaption": ""
@@ -100,7 +131,7 @@
               "RelativeDocumentMoniker": "WindowsRG\\drawing\\box.h",
               "ToolTip": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\drawing\\box.h",
               "RelativeToolTip": "WindowsRG\\drawing\\box.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-16T21:00:05.964Z",
               "EditorCaption": ""
@@ -113,7 +144,7 @@
               "RelativeDocumentMoniker": "WindowsRG\\WindowsRG.cpp",
               "ToolTip": "C:\\Users\\xmcwht\\source\\repos\\WindowsRG\\WindowsRG\\WindowsRG.cpp",
               "RelativeToolTip": "WindowsRG\\WindowsRG.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-13T20:54:35.583Z",
               "EditorCaption": ""

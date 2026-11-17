@@ -14,6 +14,10 @@ public:
 	int g;
 	int b;
 
+	int number;
+
 
 	void render(SDL_Renderer* renderer);
+
+	bool operator==(const Box&) const = default;
 };

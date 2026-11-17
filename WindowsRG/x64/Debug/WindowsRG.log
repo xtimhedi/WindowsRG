@@ -1,2 +1,26 @@
 ﻿  WindowsRG.cpp
-  WindowsRG.vcxproj -> C:\Users\xmcwht\source\repos\WindowsRG\x64\Debug\WindowsRG.exe
+C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(65,2): error C2360: initialization of 'index0' is skipped by 'case' label
+      C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(60,7):
+      see declaration of 'index0'
+  
+C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(71,2): error C2360: initialization of 'index1' is skipped by 'case' label
+      C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(66,7):
+      see declaration of 'index1'
+  
+C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(71,2): error C2360: initialization of 'index0' is skipped by 'case' label
+      C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(60,7):
+      see declaration of 'index0'
+  
+C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(77,2): error C2360: initialization of 'index2' is skipped by 'case' label
+      C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(72,7):
+      see declaration of 'index2'
+  
+C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(77,2): error C2360: initialization of 'index1' is skipped by 'case' label
+      C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(66,7):
+      see declaration of 'index1'
+  
+C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(77,2): error C2360: initialization of 'index0' is skipped by 'case' label
+      C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(60,7):
+      see declaration of 'index0'
+  
+C:\Users\xmcwht\source\repos\WindowsRG\WindowsRG\WindowsRG.cpp(110,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
